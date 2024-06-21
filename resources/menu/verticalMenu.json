@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+    },
+    {
+      "menuHeader": "Setups"
+    },
+    {
+      "url": "EventsSetup",
+      "name": "EventsSetup",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "EventsSetup"
+    }
+  ]
+}
